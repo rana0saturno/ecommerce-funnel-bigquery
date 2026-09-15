@@ -1,3 +1,6 @@
+-- ============================================
+-- 1. EMBUDO GENERAL - tasas de conversión
+-- ============================================
 WITH max_date AS (
   SELECT MAX(event_date) AS ultima_fecha
   FROM `portfolio-analytics-508503.my_dataset.user_events`
