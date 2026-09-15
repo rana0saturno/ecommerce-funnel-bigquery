@@ -54,6 +54,6 @@ Período analizado: últimos 30 días disponibles en el dataset.
 
 ## 🔗 Enlaces
 
-- 📊 [Ver análisis completo en Notion] -------
+- 📊 [Ver análisis completo en Notion] [-------](https://app.notion.com/p/Portafolio-An-lisis-de-Embudo-de-Conversi-n-E-commerce-3db0649d3e8f8044a391e72774d0bd09?source=copy_link)
 - 📈 [Ver dashboard interactivo en Looker Studio]. ----------
 - 💼 [Mi perfil de LinkedIn]. ------------------
